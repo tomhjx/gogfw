@@ -1,2 +1,3 @@
 # gogfw
-GO MOD about GFW list
+Provides [GFW LIST](https://github.com/gfwlist/gfwlist) processing for Go
+
